@@ -1,0 +1,15 @@
+curl 'https://jut.su/jojo-bizarre-adventure/season-1/episode-2.html' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: ru,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: _ym_uid=1724016853356321389; _ym_d=1728629793; LB_member_sc=0a9c4f60d4c869beea88475cadfd268a; dle_user_id=783027; dle_password=e19ef2e3320ec3d4efb49c660f2a85cd; dle_newpm=0; PHPSESSID=bl105i47sr3ull9cdjtivdsmh0; _ym_isad=1; player[wap_player_res]=720' \
+  -H 'priority: u=0, i' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "YaBrowser";v="24.7", "Yowser";v="2.5"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36'
